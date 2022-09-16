@@ -1,14 +1,14 @@
 {
-    "name": "php-flasher/flasher-toastr-laravel",
+    "name": "mmehdizadeh/flasher-toastr-laravel",
     "description": "PHP Flasher Laravel adapter for Toastr",
     "type": "library",
     "keywords": ["yoeunes", "notify", "php", "laravel", "symfony", "Lumen", "notifications", "messages", "alerts", "pnotify", "toastr ", "bundle", "flex"],
-    "homepage": "https://php-flasher.io",
+    "homepage": "https://github.com/mmehdizadeh",
     "authors": [
         {
-            "name": "Younes KHOUBZA",
-            "email": "younes.khoubza@gmail.com",
-            "homepage": "https://www.linkedin.com/in/younes-khoubza",
+            "name": "Mehdi Mehdizadeh",
+            "email": "mehdizadeh.ws@gmail.com",
+            "homepage": "https://github.com/mmehdizadeh",
             "role": "Developer"
         }
     ],
