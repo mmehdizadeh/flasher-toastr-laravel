@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3",
         "php-flasher/flasher-laravel": "^1.7",
-        "php-flasher/flasher-toastr": "^1.7"
+        "mmehdizadeh/flasher-toastr": "^1.7"
     },
     "autoload": {
         "psr-4": {
